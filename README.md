@@ -345,7 +345,7 @@ The Gold layer is designed to answer these analytical questions directly:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/DataBricks_Project.git
+   https://github.com/nazil-the-professor/DataBricks_Project-.git
    ```
 
 2. **Upload raw data to Databricks Volumes**
